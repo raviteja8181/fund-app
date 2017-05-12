@@ -1,0 +1,9 @@
+com\fund\app\domain\Address.class
+com\fund\app\domain\QUser.class
+com\fund\app\domain\User.class
+com\fund\app\repository\UserRepository.class
+com\fund\app\controller\HelloController.class
+com\fund\app\controller\UserController.class
+com\fund\app\domain\QAddress.class
+com\fund\app\db\DbSeeder.class
+com\fund\app\FundAppApplication.class
